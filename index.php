@@ -16,6 +16,8 @@
   <li class="main-item"><a href="validations.php">Validations</a></li>
   <li class="main-item"><a href="false_positives.php">False Positives</a></li>
   <li class="main-item"><a href="validation_errors.php">Validation Errors</a></li>
+  <li class="main-item"><a href="sessions.php">Sessions</a></li>
+  <li class="main-item"><a href="databases.php">Databases</a></li>
 </ul>
 <p></p>
 <?php
